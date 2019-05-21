@@ -18,7 +18,7 @@ steps:
   inputs:
     azureSubscription: 'Visual Studio Enterprise'
     scriptLocation: inlineScript
-    inlineScript: 'az ml folder attach -w build-2019-demo -g scottgu-all-hands'
+    inlineScript: 'az ml folder attach -w SEYLABMLWorkspace -g rgSEYLABMLWorkspace'
 
 - task: AzureCLI@1
   displayName: 'Create compute for training'
