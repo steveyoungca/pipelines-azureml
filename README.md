@@ -19,5 +19,4 @@ You can clone this repo and use it with Azure Pipelines. Before creating the pip
 1. When creating the pipeline for the project, you can point it to the `azure-pipelines.yml` file. This defines an example pipeline.
 
 
-Making a quick change
-Hey, I just made another change
+THis is a live demo
